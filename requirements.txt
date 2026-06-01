@@ -38,3 +38,4 @@ ultralytics==8.4.60
 ultralytics-thop==2.0.19
 urllib3==2.7.0
 Werkzeug==3.1.8
+gunicorn
