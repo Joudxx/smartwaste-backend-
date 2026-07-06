@@ -5,4 +5,4 @@ numpy
 opencv-python
 ultralytics
 Pillow
-tensorflow
+tensorflow==2.15.0
